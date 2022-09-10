@@ -1,0 +1,31 @@
+
+    body{
+        background-image: linear-gradient(180deg, rgb(203,206,206),rgb(255,255,255));
+    }
+    .cont{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 5px;
+    }
+    .stripe {
+        width: 225px;
+        height: 50px;
+    }
+    .saffron-stripe {
+        background: rgb(255, 153 ,51);
+    }
+    .white-stripe {
+        background: rgb(255,255,255);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .green-stripe {
+        background: rgb(18,135,8);
+    }
+    .ashok chakra{
+        height: 40px;
+        width: 40px;
+    }
